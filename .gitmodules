@@ -1,0 +1,3 @@
+[submodule "deps/ericw-tools-wrapper"]
+	path = deps/ericw-tools-wrapper
+	url = https://github.com/chunky-cat/ericw-tools-wrapper
